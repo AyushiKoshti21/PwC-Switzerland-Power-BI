@@ -1,6 +1,7 @@
 # PwC-Switzerland-Power-BI
 
 Customer demographics and insights:
+
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
 In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
